@@ -1,0 +1,24 @@
+{
+  "sources": {
+    "graphite": {
+      "locked_version": "0.1.5",
+      "git": "git://github.com/hectcastro/chef-graphite.git",
+      "ref": "a36f213de820161c921f521f3fddc634231dca3a"
+    },
+    "apache2": {
+      "locked_version": "1.8.4"
+    },
+    "logrotate": {
+      "locked_version": "1.4.0"
+    },
+    "python": {
+      "locked_version": "1.4.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "yum": {
+      "locked_version": "2.3.2"
+    }
+  }
+}
